@@ -1,0 +1,7 @@
+C:\Users\ericsen.souza\Desktop\estudo\Estudo-c-\Solucao\01_console\bin\Debug\01_console.exe.config
+C:\Users\ericsen.souza\Desktop\estudo\Estudo-c-\Solucao\01_console\bin\Debug\01_console.exe
+C:\Users\ericsen.souza\Desktop\estudo\Estudo-c-\Solucao\01_console\bin\Debug\01_console.pdb
+C:\Users\ericsen.souza\Desktop\estudo\Estudo-c-\Solucao\01_console\obj\Debug\01_console.csprojAssemblyReference.cache
+C:\Users\ericsen.souza\Desktop\estudo\Estudo-c-\Solucao\01_console\obj\Debug\01_console.csproj.CoreCompileInputs.cache
+C:\Users\ericsen.souza\Desktop\estudo\Estudo-c-\Solucao\01_console\obj\Debug\01_console.exe
+C:\Users\ericsen.souza\Desktop\estudo\Estudo-c-\Solucao\01_console\obj\Debug\01_console.pdb

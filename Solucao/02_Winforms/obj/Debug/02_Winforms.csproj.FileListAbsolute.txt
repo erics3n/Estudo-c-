@@ -1,0 +1,10 @@
+C:\Users\ericsen.souza\Desktop\estudo\Estudo-c-\Solucao\02_Winforms\bin\Debug\02_Winforms.exe.config
+C:\Users\ericsen.souza\Desktop\estudo\Estudo-c-\Solucao\02_Winforms\bin\Debug\02_Winforms.exe
+C:\Users\ericsen.souza\Desktop\estudo\Estudo-c-\Solucao\02_Winforms\bin\Debug\02_Winforms.pdb
+C:\Users\ericsen.souza\Desktop\estudo\Estudo-c-\Solucao\02_Winforms\obj\Debug\02_Winforms.csprojAssemblyReference.cache
+C:\Users\ericsen.souza\Desktop\estudo\Estudo-c-\Solucao\02_Winforms\obj\Debug\_02_Winforms.Properties.Resources.resources
+C:\Users\ericsen.souza\Desktop\estudo\Estudo-c-\Solucao\02_Winforms\obj\Debug\02_Winforms.csproj.GenerateResource.cache
+C:\Users\ericsen.souza\Desktop\estudo\Estudo-c-\Solucao\02_Winforms\obj\Debug\02_Winforms.csproj.CoreCompileInputs.cache
+C:\Users\ericsen.souza\Desktop\estudo\Estudo-c-\Solucao\02_Winforms\obj\Debug\02_Winforms.exe
+C:\Users\ericsen.souza\Desktop\estudo\Estudo-c-\Solucao\02_Winforms\obj\Debug\02_Winforms.pdb
+C:\Users\ericsen.souza\Desktop\estudo\Estudo-c-\Solucao\02_Winforms\obj\Debug\_02_Winforms.Form1.resources
